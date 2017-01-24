@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ScheduleView">
+        <attr name="first_day_of_week" format="integer"/>
+        <attr name="week_text_color" format="color"/>
+        <attr name="normal_date_color" format="color"/>
+        <attr name="today_date_color" format="color"/>
+        <attr name="other_month_date_color" format="color"/>
+        <attr name="select_date_background" format="color"/>
+    </declare-styleable>
+</resources>
